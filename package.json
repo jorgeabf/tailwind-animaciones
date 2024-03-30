@@ -1,0 +1,30 @@
+{
+  "name": "plugin-tailwindcss-animaciones",
+  "version": "0.0.3",
+  "description": "Plugin de tailwindcss para añadir animaciones",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "@jorgeabf siguiendo el tutorial de @midudev",
+  "license": "ISC",
+  "keywords": [
+    "tailwindcss",
+    "animaciones",
+    "keyframes"
+  ],
+  "devDependencies": {
+    "postcss": "8.4.38",
+    "standard": "17.1.0",
+    "tailwindcss": "3.4.3",
+    "vitest": "1.4.0",
+    "@csstools/postcss-minify": "1.1.1"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
