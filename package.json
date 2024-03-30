@@ -1,6 +1,6 @@
 {
   "name": "plugin-tailwindcss-animaciones",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Plugin de tailwindcss para añadir animaciones",
   "main": "./src/index.js",
   "type": "module",
